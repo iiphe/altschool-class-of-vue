@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import { ref, reactive } from "@vue/reactivity";
+import colorPicker from "../composables/colorPicker";
 
 export default {
   setup() {
